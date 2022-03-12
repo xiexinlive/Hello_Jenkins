@@ -1,4 +1,3 @@
-## Hello_Jenkins <img align="right" src="img/liatrio.png">
 These simple exercises are designed to introduce you to Jenkins and continuous integration. The original exercise 
 was written as an exercise for California State University, Chico. I have since modified it to be a simple exercise for
 anyone to use. There will be a new version of the exercise that utilizes declarative Jenkinsfiles. 
